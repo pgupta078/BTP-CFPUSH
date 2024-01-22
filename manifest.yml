@@ -1,0 +1,10 @@
+---
+applications:
+  - name: dbbootpgbtp
+    path: target\dbbootpgbtp-0.0.1-SNAPSHOT.war
+    random-route: true
+    memory: 2048M
+    buildpacks:
+      - sap_java_buildpack
+    services:
+      - prg_pgrce
