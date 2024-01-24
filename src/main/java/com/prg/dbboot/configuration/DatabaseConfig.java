@@ -1,4 +1,4 @@
-package com.prg.Configuration;
+package com.prg.dbboot.configuration;
 
 
 import java.util.Arrays;

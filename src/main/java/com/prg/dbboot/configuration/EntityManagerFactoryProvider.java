@@ -1,4 +1,4 @@
-package com.prg.Configuration;
+package com.prg.dbboot.configuration;
 
 import org.eclipse.persistence.jpa.PersistenceProvider;
 import org.springframework.instrument.classloading.SimpleLoadTimeWeaver;
